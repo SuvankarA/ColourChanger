@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.button {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 20px;
+  display: inline-block;
+ 
+}
+
+h1{
+     position: relative;  
+     top: 10rem;
+     left: 30rem; 
+     /* text-align: center; */
+     font-size: 5rem;
+}
+
+#grey{
+    position: relative;
+    top: 20rem;
+    left: 25rem;
+    background: grey;
+}
+#blue{
+    position: relative;
+    top: 20rem;
+    left: 25rem;
+    background: blue;
+}
+#yellow{
+    position: relative;
+    top: 20rem;
+    left: 25rem;
+    background: yellow;
+}
+#green{
+    position: relative;
+    top: 20rem;
+    left: 25rem;
+    background: green;
+}
+#red{
+    position: relative;
+    top: 20rem;
+    left: 25rem;
+    background: red;
+}
+
+h3{
+    position: relative;
+    top: 30rem;
+    left: 43rem;
+    font-size: 2rem;
+}
